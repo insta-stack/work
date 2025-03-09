@@ -22,7 +22,7 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 
 ## 📂 Projects Featured
 - **Weather One** – A weather app with real-time updates.
-- **Apple THing** –  Somthing Somthing.
+- **Apple Thing** –  Somthing Somthing.
 - **Brainwave** – A highly interactive website with a Bento box layout.
 
 ## 💡 Challenges & Journey
