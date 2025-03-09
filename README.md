@@ -17,7 +17,7 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 
 ## 🛠️ Technologies Used
 - **Frontend**: React, Next.js, Tailwind CSS
-- **Animations**: GSAP, Framer Motion
+- **Animations**: GSAP, 
 - **Deployment**: Netlify
 
 ## 📂 Projects Featured
@@ -30,7 +30,7 @@ Creating this portfolio was an exciting yet challenging journey. Some of the key
 - **Design Consistency**: Ensuring a uniform design across different screen sizes and making it visually appealing.
 - **Performance Optimization**: Balancing animations and interactivity without compromising speed and performance.
 - **Deployment Issues**: Debugging build failures and ensuring smooth hosting on Netlify.
-- **Interactivity & Animations**: Implementing complex animations with GSAP and Framer Motion while maintaining a seamless user experience.
+- **Interactivity & Animations**: Implementing complex animations with GSAP  while maintaining a seamless user experience.
 
 Overcoming these challenges helped me improve my skills in frontend development, debugging, and UI/UX design, making this portfolio a reflection of my growth as a developer.
 
